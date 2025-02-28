@@ -5,7 +5,6 @@ An advanced network security tool that leverages unsupervised machine learning t
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.15+-red.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.9+-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## ✨ Features
 
