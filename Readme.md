@@ -15,12 +15,6 @@ An advanced network security tool that leverages unsupervised machine learning t
 - **AI Assistant**: Get insights about zero-day exploits and anomaly detection
 - **Dark/Light Mode**: User-friendly interface with theme options
 
-## 📊 Screenshots
-
-![Dashboard](https://via.placeholder.com/800x400)
-![Data Analysis](https://via.placeholder.com/800x400)
-![AI Assistant](https://via.placeholder.com/800x400)
-
 ## 🚀 Installation
 
 ```bash
